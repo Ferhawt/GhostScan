@@ -2,6 +2,19 @@
 
 GhostScan, açık kaynak istihbarat (OSINT) yöntemleriyle hedef sistemler hakkında bilgi toplayan ve temel zafiyet analizi gerçekleştiren bir siber güvenlik araştırma projesidir.
 
+
+
+
+
+
+![5a3aaeac-b422-498b-a217-1b477cd86ca6](https://github.com/user-attachments/assets/e4e31736-351f-4b48-8769-ba6af31f179a)
+
+
+
+
+
+
+
 ## 🔎 Projenin Amacı
 
 - OSINT (Open Source Intelligence) araçlarını entegre ederek hedef sistemler hakkında bilgi toplamak.
