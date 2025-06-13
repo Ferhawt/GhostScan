@@ -29,5 +29,5 @@ GhostScan, açık kaynak istihbarat (OSINT) yöntemleriyle hedef sistemler hakk�
 
 1. Repoyu klonla:
 ```bash
-git clone https://github.com/kullanici_adin/GhostScan.git
+git clone https://github.com/Ferhawt/GhostScan.git
 cd GhostScan
