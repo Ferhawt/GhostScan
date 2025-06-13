@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+shodan
+python-dotenv
+networkx
+matplotlib
+python-nmap
